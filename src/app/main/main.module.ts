@@ -13,6 +13,6 @@ import { HomepageComponent } from './pages/homepage/homepage.component';
     CommonModule,
     MainRoutingModule,
     SharedModule
-  ]
+  ],
 })
 export class MainModule { }
